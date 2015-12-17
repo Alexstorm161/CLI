@@ -1,4 +1,5 @@
 public class CommandLine{
 System.out.println("Hello there fellar!")
 System.out.println("Woahh")
+System.out.println("Whats up fam")
 }
